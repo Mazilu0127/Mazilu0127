@@ -9,14 +9,14 @@
     <a href="./licence"><img src="https://img.shields.io/github/license/johnhvy/johnhvy?style=for-the-badge&color=brightgreen"/></a>
 </div>
 
-- 🌱Here are my technic certifies **https://www.hackerrank.com/profile/pro_dev0530**
-- 💬 My portfolio is **https://sasaki-portfolio.onrender.com/**
-- 📫 How to reach me **sasakidev581@gmail.com**
-- 👨‍💻 All of my projects are available at **https://github.com/johnhvy?tab=repositories**
+- 🌱Here are my technic certifies 
+- 💬 My portfolio is 
+- 📫 How to reach me 
+- 👨‍💻 All of my projects are available at 
 - ⚡ Fun fact **I speak fluent emoji, but my computer never understands my jokes. 😅**
 
 <div> 
-<a href = "mailto:sasakidev581@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = ""><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div><h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://discord.com.gg/sasaki_581" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="llBeest" height="30" width="40" /></a></p>
